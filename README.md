@@ -14,5 +14,14 @@ En la carpeta Datasets podrán encontrar el archivo inicial de excel y dos archi
 
 *Datasets:* https://github.com/DJChincuini/Data-Analysis--Chincuini/tree/main/Datasets
 
+#
 
+En el archivo EDA, encontraran la exploración de los datos que realicé en un archivo de jupiter notebook.
 
+*EDA:* https://github.com/DJChincuini/Data-Analysis--Chincuini/blob/main/EDA.ipynb
+
+#
+
+En el archivo Dashboard, encontraran los gráficos que relicé en PowerBI en base a los dos KPIs expuestos anteriormente.
+
+*Dashboard:* https://github.com/DJChincuini/Data-Analysis--Chincuini/blob/main/Dashboard.pbix
