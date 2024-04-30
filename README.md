@@ -1,5 +1,6 @@
+<p align='center'> <img src="Img\Foto portada.webp" width="600" height="400" ><p>
+
 ## Introducción
-<p align='center'> <img src="Img\Foto portada.webp" width="942" height="452" ><p>
 
 En este proyecto abordaré dos datasets facilitados por el Observatorio de Movilidad y Seguridad Vial de la ciudad autónoma de Buenos Aires. Mí función es analizar los datos contenidos en esta en pos de conseguir los insight necesarios para poder cumplir con los KPIs requeridos. La información obtenida luego será graficada en un Dashboard en PowerBI con el que expondré los resultados que he conseguido.
 
