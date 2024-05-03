@@ -2,7 +2,9 @@
 
 ## Introducción
 
-En este proyecto abordaré dos datasets facilitados por el Observatorio de Movilidad y Seguridad Vial de la ciudad autónoma de Buenos Aires. Mí función es analizar los datos contenidos en esta en pos de conseguir los insight necesarios para poder cumplir con los KPIs requeridos. La información obtenida luego será graficada en un Dashboard en PowerBI con el que expondré los resultados que he conseguido.
+En este proyecto abordaré dos datasets facilitados por el Observatorio de Movilidad y Seguridad Vial de la ciudad autónoma de Buenos Aires. Mí función es analizar estos datos en pos de conseguir insights que ayudarán a entender el porqué de estos siniestros y factores de riesgos que ayudan a la multiplicación de nuevos casos.
+
+También diseñaré un Dashboard en PowerBI al que podrán acceder gracias a Streamlit siguiendo el siguiente link: [EN PROCESO]
 
 ## KPIs:
 
@@ -12,7 +14,7 @@ En este proyecto abordaré dos datasets facilitados por el Observatorio de Movil
 
 ## Datasets
 
-En la carpeta Datasets podrán encontrar el archivo inicial de excel y dos archivos CSV que contienen la información analizada en este proyecto.
+En la carpeta Datasets podrán encontrar el archivo inicial de excel y dos archivos CSV, generados gracias al primer archivo Excel, que contienen la información analizada en este proyecto.
 
 *Datasets:* https://github.com/DJChincuini/Data-Analysis--Chincuini/tree/main/Datasets
 

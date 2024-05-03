@@ -13,5 +13,5 @@ st.write(
 )
 
 st.write(
-    "A la izquierda de esta página se encuentra un índice por el que podrás acceder al Dashboard diseñado para este proyecto."
+    "A la izquierda de esta página se encuentra el índice por el que podrás acceder al Dashboard diseñado para este proyecto."
 )
